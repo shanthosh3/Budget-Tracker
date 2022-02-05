@@ -1,0 +1,22 @@
+
+{
+    "name": "Budget Tracker",
+    "short_name": "Budgeter",
+    "start_url": "http://localhost:3001/",
+    "background_color": "#dddddd",
+    "theme_color": "#dddddd",
+    "display": "fullscreen",
+    "icons": [
+        {
+            "src": "/icons/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+
+}
